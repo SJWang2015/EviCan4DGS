@@ -1,8 +1,4 @@
 <p align="center">
-A 3DGS framework for omni urban scene reconstruction and simulation!
-</p>
-
-<p align="center">
     <!-- project -->
     <a href="https://github.com/SJWang2015/EviCan4DGS/"></a>
 </p>
