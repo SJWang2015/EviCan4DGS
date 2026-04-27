@@ -1,0 +1,27 @@
+# ninja log v5
+1	12866	1750840732959521464	/home/ubuntu/Repositories/flownet3d_pytorch/lib/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	881ac1f03bf92b20
+0	14428	1750840734523692171	/home/ubuntu/Repositories/flownet3d_pytorch/lib/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	e3754e7d8202f2b1
+1	14432	1750840734523692171	/home/ubuntu/Repositories/flownet3d_pytorch/lib/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	487f4ef2ca791be9
+1	14436	1750840734527692607	/home/ubuntu/Repositories/flownet3d_pytorch/lib/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	feca4ac3b8ed18cc
+1	14676	1750840734767718783	/home/ubuntu/Repositories/flownet3d_pytorch/lib/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	7875ab9d00e84280
+2	12440	1750840826173229849	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	9cdcd1ef695eefb
+2	14115	1750840827853396672	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	7240faf08b1150f5
+1	14156	1750840827893400642	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	71f7abe0905b9948
+2	14247	1750840827985409773	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	bc4f6e596e4c2a2b
+3	14530	1750840828269437934	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	b75aa484b91b5a9d
+9	13193	1750841470835560657	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	9cdcd1ef695eefb
+8	14933	1750841472575672005	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	7240faf08b1150f5
+9	14951	1750841472595673284	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	bc4f6e596e4c2a2b
+9	15454	1750841473095705267	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	b75aa484b91b5a9d
+8	16308	1750841473951760004	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	71f7abe0905b9948
+8	6061	1750841757836990104	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/interpolate.o	4241a07e4572b90e
+8	6244	1750841758021000777	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/sampling.o	3dc7c55cf782bbc4
+8	6734	1750841815572313938	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/interpolate.o	4241a07e4572b90e
+8	6843	1750841815684320339	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/sampling.o	3dc7c55cf782bbc4
+8	7063	1750841815904332914	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/group_points.o	29babb32b77d0916
+8	13141	1750841821972679450	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/pointnet2_api.o	9cdcd1ef695eefb
+8	14604	1750841823436762979	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/ball_query_gpu.o	71f7abe0905b9948
+8	14751	1750841823584771422	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/group_points_gpu.o	7240faf08b1150f5
+8	15476	1750841824308812718	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/sampling_gpu.o	b75aa484b91b5a9d
+8	15861	1750841824696834847	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/interpolate_gpu.o	bc4f6e596e4c2a2b
+7	5482	1750841985405839702	/home/ubuntu/Repositories/drivestudio/utils/lib/build/temp.linux-x86_64-cpython-39/src/ball_query.o	cd9286304afd77e2

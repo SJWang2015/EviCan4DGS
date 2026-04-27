@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "C/C++: gcc build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/pybcpd/test_bcpd_wrapper",
+            // "args":[],
+            "args": ["-x", "./src.txt", "-y", "./tgt.txt", "-w", "0.0", "-b", "2.0", "-l", "20.0", "-g", "10", "-J", "300", "-K", "70", "-p", "-c", "1e-6", "-n", "500", "-h", "-r", "1",  "-s", "Y"],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            // "environment": [
+            //     {
+            //         "name": "LD_LIBRARY_PATH",
+            //         "value": "{LD_LIBRARY_PATH}:${workspaceFolder}/src/pybcpd/"
+            //     }
+            // ],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: gcc build active file",
+            "miDebuggerPath": "/usr/bin/gdb"
+        }
+    ],
+    "version": "2.0.0"
+}

@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.liquid": "xml",
+        "info.h": "c",
+        "sgraph.h": "c",
+        "random": "c",
+        "string.h": "c",
+        "norm.h": "c",
+        "bcpd.h": "c",
+        "util.h": "c",
+        "misc.h": "c",
+        "stdlib.h": "c",
+        "assert.h": "c",
+        "geokdecomp.h": "c",
+        "kdtree.h": "c",
+        "cmath": "c"
+    }
+}
