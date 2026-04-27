@@ -1,15 +1,10 @@
-<p align="center">
-    <!-- project -->
-    <a href="https://github.com/SJWang2015/EviCan4DGS/"></a>
-</p>
+
+## EviCan4DGS
 
 <p align="center">
-  <img src="https://github.com/SJWang2015/EviCan4DGS/media/output.gif" width="49%" style="max-width: 100%; height: auto;" />
-  <img src="https://github.com/SJWang2015/EviCan4DGS/media/output2.gif" width="49%" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/SJWang2015/EviCan4DGS/blob/main/media/output.gif" width="45%" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/SJWang2015/EviCan4DGS/blob/main/media/output2.gif" width="45%" style="max-width: 100%; height: auto;" />
 </p>
-
-## About
-# EviCan4DGS
 
 EviCan4DGS is a 4D Gaussian Splatting framework for dynamic scene reconstruction and novel view synthesis in autonomous-driving environments. Developed based on [DriveStudio](https://ziyc.github.io/omnire/), it is designed for complex traffic scenes with sparse multi-view observations, and focuses on improving the modeling of both non-rigid humans and rigid vehicles.
 Our method combines SMPL-driven human deformation modeling with structural-evidence-guided adaptive refinement for vehicles, enabling better primitive allocation and more accurate geometry reconstruction under non-uniform point-cloud density. EviCan4DGS also introduces a priority-based densification and pruning strategy for stable optimization within a fixed primitive budget.
